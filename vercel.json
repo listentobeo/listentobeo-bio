@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/track.js": { "memory": 128, "maxDuration": 5 },
+    "api/clicks.js": { "memory": 128, "maxDuration": 10 }
+  }
+}
